@@ -1,0 +1,5 @@
+Id_lekarza	Nazwisko	Imie	Specjalnosc	Data_urodzenia	NIP	PESEL
+1	Topstarzy	Franek	kardiolog	1965-03-16	879-122-69-94	65031687654
+2	Miesiace	Naj	Maxspec	1980-01-13	567-098-55-66	80011345567
+3	Topstarzy	Robert	onkolog	1955-04-22	444-567-87-65	55042256786
+4	LekarzNazwisko	Klaudia	nefrolog	1980-10-19	345-667-56-65	80101988766
